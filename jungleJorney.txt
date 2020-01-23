@@ -7,3 +7,4 @@ List of elements we need:
 2. A lamp
 3. A lighter
 4. A sleeping bag
+5. A first aid
